@@ -47,9 +47,9 @@ $python game.py
 $Level: 1
 $Guess: 1
 ```
-The output it will be ```Just right!```, if the user guess is the same as generated integer number, and end the program./
-The output it will be ```Too small!```, if the user guess is smaller than the generated integer number, and prompt the user again./
-The output it will be ```Too large!```, if the user guess is larger than the generated integer number, and prompt the user again./
+The output it will be ```Just right!```, if the user guess is the same as generated integer number, and end the program.__
+The output it will be ```Too small!```, if the user guess is smaller than the generated integer number, and prompt the user again.__
+The output it will be ```Too large!```, if the user guess is larger than the generated integer number, and prompt the user again.__
 
 
 ## Authors
